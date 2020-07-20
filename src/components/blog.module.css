@@ -1,0 +1,11 @@
+.page {
+	background-color: #444;
+	color: #fff;
+}
+
+h2 {
+	text-transform: capitalize;
+}
+.page h3 {
+	color: orangered;
+}

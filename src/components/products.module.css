@@ -1,0 +1,14 @@
+.page {
+	background-color: #444;
+	color: #fff;
+	text-align: center;
+}
+
+.heading {
+	color: orangered;
+}
+
+.list {
+	text-decoration: none;
+	list-style: none;
+}

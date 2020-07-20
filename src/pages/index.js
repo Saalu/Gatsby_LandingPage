@@ -1,5 +1,7 @@
-import React from "react"
-
-export default function Home() {
-  return <div>Hello world!</div>
-}
+import React from 'react';
+import Layout from '../components/layouts';
+export default () => (
+	<Layout>
+		<h1>Welcome Gatsby, here I come</h1>
+	</Layout>
+);
